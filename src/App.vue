@@ -23,6 +23,6 @@ export default {
   /* color: #2c3e50; */
   margin-top: 60px;
   background: none;
-  color: pink;
+  /* color: pink; */
 }
 </style>
